@@ -1,2 +1,3 @@
 /simple_images/
-/yolov7.pt
+/yolov7/yolov7.pt
+/wandb/
